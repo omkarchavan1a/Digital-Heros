@@ -1,0 +1,6 @@
+{
+  "name": "Digital Heroes - Delivery Operating System & Recovery Suite",
+  "description": "Complete agency delivery operating system, project recovery workspace, margin analysis model, RACI matrix, status report builder, and AI pressure-testing suite for agency delivery leads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
